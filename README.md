@@ -1,3 +1,3 @@
 # Flight-Fare-Prediction
 fixed modification of UI
-Price not updating accurately
+fixed Price not updating accurately
