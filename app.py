@@ -7,7 +7,7 @@ import pandas as pd
 app = Flask(__name__)
 model = pickle.load(open("flight_rf.pkl", "rb"))
 
-
+#MY NAME IS ANTHONY GONSALVIS MAI DUNYA MAI AKELA HU
 
 @app.route("/")
 @cross_origin()
