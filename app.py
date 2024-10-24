@@ -8,6 +8,7 @@ app = Flask(__name__)
 model = pickle.load(open("flight_rf.pkl", "rb"))
 
 #MY NAME IS ANTHONY GONSALVIS MAI DUNYA MAI AKELA HU
+#yo
 
 @app.route("/")
 @cross_origin()
